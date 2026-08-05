@@ -1,9 +1,9 @@
 ---
 ---
 
-# hamonp01's Website
+# Hamon Lab
 
-An engaging 1-3 sentence description of your lab.
+Understanding macrophage diversity to develop the next generation of cancer immunotherapies
 
 {% include section.html %}
 
@@ -11,7 +11,9 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Hamon Lab is a research team passionate about macrophage biology and cancer immunology. We investigate how macrophage diversity influences tumor development, anti-tumor immunity, and response to therapy. By combining patient samples, spatial omics, experimental models, and translational approaches, we aim to uncover how macrophages can be harnessed to develop new therapeutic strategies for cancer patients.
+Our laboratory is based at the Cordeliers Research Center (CRC), a historical site in the heart of Paris.
+
 
 {%
   include button.html
@@ -28,18 +30,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Our Laboratory"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Deciphering macrophage biology across liver cancers and beyond
+Macrophages are highly diverse immune cells that adapt to their tissue environment and display a remarkable range of functions. In cancer, this diversity can influence tumor progression, immune responses, and treatment efficacy.
+Our research combines human studies and experimental approaches to understand how macrophage states are shaped within tumors and how this knowledge can be translated into new therapeutic opportunities. We integrate cutting-edge technologies, including spatial profiling, single-cell approaches, and functional models, to bridge fundamental discoveries and clinical applications.
+
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="See our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Research"
   flip=true
   style="bare"
   text=text
@@ -59,12 +64,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Hamon Lab brings together researchers with diverse scientific backgrounds and expertise, united by a common interest in understanding macrophage biology in cancer. We foster a collaborative and supportive environment where creativity, scientific rigor, and teamwork drive our research.
+Located within the collaborative environment of the Cordeliers Research Center, our team benefits from interactions with scientists, clinicians, and technological platforms across disciplines.
+
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet the team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Team_picture.jpeg"
   link="team"
   title="Our Team"
   text=text
