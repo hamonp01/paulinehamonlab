@@ -1,7 +1,6 @@
 ---
 ---
 
-# Hamon Lab
 
 Understanding macrophage diversity to develop the next generation of cancer immunotherapies
 
@@ -30,7 +29,7 @@ Our laboratory is based at the Cordeliers Research Center (CRC), a historical si
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Laboratory"
+  title="Our Lab"
   text=text
 %}
 
