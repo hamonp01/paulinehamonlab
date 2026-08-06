@@ -3,7 +3,7 @@
 
 # Understanding macrophage diversity to develop the next generation of cancer immunotherapies
 
-The Hamon Lab is a research team passionate about macrophage biology and cancer immunology. We investigate how macrophage diversity influences tumor development, anti-tumor immunity, and response to therapy. By combining patient samples, spatial omics, experimental models, and translational approaches, we aim to uncover how macrophages can be harnessed to develop new therapeutic strategies for cancer patients.
+The Hamon lab is a research team passionate about macrophage biology and cancer immunology. We investigate how macrophage diversity influences tumor development, anti-tumor immunity, and response to therapy. By combining patient samples, spatial omics, experimental models, and translational approaches, we aim to uncover how macrophages can be harnessed to develop new therapeutic strategies for cancer patients.
 
 Our laboratory is based at the Cordeliers Research Center (CRC), a historical site in the heart of Paris.
 

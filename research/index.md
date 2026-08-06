@@ -2,26 +2,11 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Our research
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %} Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+Macrophages are among the most abundant immune cells in tumors and play a central role in shaping cancer progression and response to therapy. However, macrophages are not a single cell type: they encompass diverse populations with distinct origins, molecular programs, and functions. The Hamon Lab aims to decipher macrophage diversity in cancer and understand how distinct macrophage states influence tumor development, anti-tumor immunity, and treatment resistance.
 
 {% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
