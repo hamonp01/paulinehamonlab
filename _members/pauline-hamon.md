@@ -4,11 +4,11 @@ image: images/Headshots/Headshot_Hamon.jpg
 role: principal-investigator
 affiliation: Assistant Professor
 aliases:
-  - J. Smith
-  - J Smith
+  - P. Hamon
+  - Pauline Hamon
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://paulinehamonlab.org
+  orcid: 0000-0002-6776-1635
 ---
 
 Assistant Professor (Chaire de Professeur Junior), Principal Investigator

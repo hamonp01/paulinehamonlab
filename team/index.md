@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We believe that scientific excellence thrives through diversity of perspectives, experiences, and backgrounds. Our lab is committed to fostering an inclusive and respectful environment where everyone can contribute, grow, and feel valued. We welcome individuals with diverse expertise, origins, and career paths, and we strive to build a team that reflects the diversity of the scientific community.
 
 {% include section.html %}
 

@@ -22,7 +22,7 @@ The lab investigates how macrophage populations emerge, evolve, and organize wit
 {% endcapture %}
 
 {% include feature.html
-  image="images/Reasearch/Falcon_50_macs2.JPG"
+  image="images/Research/Falcon_50_macs2.JPG"
   title="Macrophage Diversity"
   text=text
 %}
