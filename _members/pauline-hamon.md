@@ -2,7 +2,7 @@
 name: Pauline Hamon
 image: images/Headshots/Headshot_Hamon.jpg
 role: principal-investigator
-affiliation: Cordeliers Research Center
+affiliation: Assistant Professor
 aliases:
   - J. Smith
   - J Smith
@@ -10,6 +10,8 @@ links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
 ---
+
+Assistant Professor (Chaire de Professeur Junior), Principal Investigator
 
 Pronouns: she/her
 
