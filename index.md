@@ -84,7 +84,7 @@ Located within the collaborative environment of the Cordeliers Research Center, 
 
 {%
   include feature.html
-  image="images/Team_picture.jpeg"
+  image="images/Team/Team_picture.jpeg"
   link="team"
   title="Our Team"
   text=text

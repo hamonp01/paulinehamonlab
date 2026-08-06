@@ -15,14 +15,14 @@ Macrophages are among the most abundant immune cells in tumors and play a centra
 
 **How do tissue-resident and monocyte-derived macrophages contribute to cancer development?**
 
-Macrophages are shaped by both their developmental origin and the signals they receive from their environment. In liver cancers, tissue-resident macrophages and monocyte-derived macrophages coexist and adopt diverse functional states, but their specific roles remain incompletely understood. 
+Macrophages are shaped by both their developmental origin and the signals they receive from their environment. In liver cancers and other solid tumors, tissue-resident macrophages and monocyte-derived macrophages coexist and adopt diverse functional states, but their specific roles remain incompletely understood. 
 
 The lab investigates how macrophage populations emerge, evolve, and organize within adult and pediatric liver cancers, with the goal of identifying conserved and context-specific macrophage programs across solid tumors.
 
 {% endcapture %}
 
 {% include feature.html
-  image="images/Falcon_50_macs.JPG"
+  image="images/Reasearch/Falcon_50_macs2.JPG"
   title="Macrophage Diversity"
   text=text
 %}
@@ -38,7 +38,7 @@ Beyond their diversity, macrophages can have opposing functions within tumors, e
 {% endcapture %}
 
 {% include feature.html
-  image="images/Ab_box.JPG"
+  image="images/Research/Ab_box2.JPG"
   title="Macrophage Functions"
   text=text
   flip=true
@@ -55,10 +55,18 @@ Resistance to therapy and relapse post treatment remain a major challenge, inclu
 {% endcapture %}
 
 {% include feature.html
-  image="images/Slide_box.JPG"
+  image="images/Research/Slide_box2.JPG"
   title="Macrophage Targeting"
   text=text
 %}
 
 ## Research Approaches
 
+Our research includes different technics:
+•	Spatial transcriptomics 
+•	Single-cell sequencing 
+•	Multiplex imaging 
+•	Spectral flow cytometry 
+•	Ex vivo tissue slice culture
+•	Genetically engineered preclinical models 
+•	Computational biology
