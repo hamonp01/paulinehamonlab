@@ -4,6 +4,7 @@ image: images/Headshos/Headshot_Da_Silva.jpg
 role: phd
 group: alum
 links:
+  email: camille.da-silva@inserm.fr
   github: john-doe
 ---
 
