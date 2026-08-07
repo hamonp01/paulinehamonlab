@@ -1,6 +1,6 @@
 ---
 name: Camille Gillet
-image: images/Headshots/Camille.gillet.JPG
+image: images/Headshots/Camille_gillet.JPG
 description: Engineer
 role: IE
 links:

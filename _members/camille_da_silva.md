@@ -1,6 +1,6 @@
 ---
 name: Camille Da Silva
-image: images/Headshos/Headshot_Da_Silva.jpg
+image: images/Headshots/Headshot_Da_Silva.jpg
 role: phd
 group: alum
 links:
