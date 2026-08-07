@@ -1,8 +1,8 @@
 ---
 name: Camille Gillet
 image: images/Headshots/Camille_gillet.JPG
-description: Engineer
-role: IE
+description: Research Staff
+role: Engineer
 links:
   email: camille.gillet@inserm.fr
   twitter: sarahjohnson
