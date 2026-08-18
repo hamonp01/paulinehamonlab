@@ -1756,9 +1756,8 @@
   date: '2018-09-10'
   link: https://doi.org/gfjgsn
   orcid: 0000-0002-6776-1635
-  plugin: sources.py
-  file: sources.yaml
-  image: /images/publications/2018-jem-mac-lung.jpg
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/S41467-017-02458-4
   title: Profiling the lymphoid-resident T cell pool reveals modulation by age and
     microbiota
@@ -1890,3 +1889,26 @@
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1084/jem.20180534
+  title: Macrophages of distinct origins contribute to tumor development in the lung
+  authors:
+  - Pierre-Louis Loyher
+  - Pauline Hamon
+  - Marie Laviron
+  - "A\xEFda Meghraoui-Kheddar"
+  - Elena Goncalves
+  - Zihou Deng
+  - Sara Torstensson
+  - "Nad\xE8ge Bercovici"
+  - Camille Baudesson de Chanville
+  - "B\xE9hazine Combadi\xE8re"
+  - Frederic Geissmann
+  - Ariel Savina
+  - "Christophe Combadi\xE8re"
+  - Alexandre Boissonnas
+  publisher: Journal of Experimental Medicine
+  date: '2018-09-10'
+  link: https://doi.org/gfjgsn
+  image: /images/publications/2018-jem-mac-lung.jpg
+  plugin: sources.py
+  file: sources.yaml
