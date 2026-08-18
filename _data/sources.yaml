@@ -1,6 +1,15 @@
 - id: doi:10.1126/science.ady1678
   image: /images/publications/2026-science-dendritic-cells.jpg
 
+- id: doi:10.1038/S41591-025-04177-6
+  image: /images/publications/2026-natmed-igg1_hcc.jpg
+
+  - id: doi:10.1101/2025.09.09.675071
+  image: /images/publications/2025-biorxiv-trem2-hcc.jpg
+
+- id: doi:10.1038/S41551-025-01475-9
+  image: /images/publications/2025-natbioeng-marqo.jpg
+
 - id: doi:10.1126/science.adn0327
   image: /images/publications/2024-science-hematopoietic-aging.jpg
 
@@ -9,6 +18,9 @@
 
 - id: doi:10.1038/s41590-023-01475-4
   image: /images/publications/2023-nature-immunology-trem2.jpg
+
+- id: doi:10.1146/ANNUREV-CANCERBIO-061521-085949
+  image: /images/publications/2023-annrevcancerbio-mac-dc.jpg
 
 - id: doi:10.1136/jitc-2021-003519
   image: /images/publications/2022-jitc-tgf-beta.jpg
@@ -19,3 +31,5 @@
 - id: doi:10.1016/s2468-1253(21)00385-x
   image: /images/publications/2022-lancet-cemiplimab.jpg
 
+- id: doi:10.1084/JEM.20180534
+  image: /images/publications/2018-jem-mac-lung.jpg
