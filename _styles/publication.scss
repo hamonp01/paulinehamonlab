@@ -1,0 +1,59 @@
+---
+---
+
+.publication {
+  display: flex;
+  gap: 40px;
+  margin: 50px 0;
+  align-items: flex-start;
+}
+
+.publication-image {
+  flex: 0 0 280px;
+  display: block;
+}
+
+.publication-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  box-shadow: var(--shadow);
+}
+
+.publication-info {
+  flex: 1;
+  padding-top: 10px;
+}
+
+.publication-title {
+  display: block;
+  font-size: 1.25rem;
+  font-weight: var(--semi-bold);
+  line-height: 1.35;
+  margin-bottom: 15px;
+}
+
+.publication-authors {
+  margin-bottom: 12px;
+  line-height: 1.5;
+}
+
+.publication-details {
+  color: var(--gray);
+  margin-bottom: 20px;
+}
+
+.publication-link {
+  font-size: 0.9rem;
+}
+
+@media (max-width: 700px) {
+  .publication {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .publication-image {
+    width: 220px;
+  }
+}

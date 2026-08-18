@@ -1,0 +1,60 @@
+{% if include.lookup %}
+  {% assign publication = site.data.citations
+    | where_exp: "citation",
+      "citation.id == include.lookup or citation.title contains include.lookup"
+    | first
+  %}
+{% endif %}
+
+{% if publication %}
+  <article class="publication">
+    {% if publication.image %}
+      <a
+        href="{{ publication.link | relative_url | uri_escape }}"
+        class="publication-image"
+        aria-label="{{ publication.title | regex_strip }}"
+      >
+        <img
+          src="{{ publication.image | relative_url | uri_escape }}"
+          alt="{{ publication.title | regex_strip }}"
+          loading="lazy"
+        >
+      </a>
+    {% endif %}
+
+    <div class="publication-info">
+      <a
+        href="{{ publication.link | relative_url | xml_escape }}"
+        class="publication-title"
+      >
+        {{ publication.title }}
+      </a>
+
+      <div class="publication-authors">
+        {{
+          publication.authors
+          | join: ","
+          | split: ","
+          | array_carve: 8
+          | join: ", "
+        }}
+        {% if publication.authors.size > 8 %}, et al.{% endif %}
+      </div>
+
+      <div class="publication-details">
+        <span>{{ publication.publisher }}</span>
+        ·
+        <span>{{ publication.date | date: "%Y" }}</span>
+      </div>
+
+      {% if publication.link %}
+        <a
+          href="{{ publication.link | relative_url | xml_escape }}"
+          class="publication-link"
+        >
+          View publication →
+        </a>
+      {% endif %}
+    </div>
+  </article>
+{% endif %}
