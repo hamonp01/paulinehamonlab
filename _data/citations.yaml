@@ -1303,27 +1303,6 @@
   plugin: sources.py
   file: sources.yaml
   image: /images/publications/2022-lancet-cemiplimab.jpg
-- id: doi:10.1101/2022.01.17.476557
-  title: "TGF\u03B2 receptor inhibition unleashes interferon-\u03B2 production by\
-    \ tumor-associated macrophages and enhances radiotherapy efficacy"
-  authors:
-  - Pauline Hamon
-  - "Marine Gerb\xE9 de Thor\xE9"
-  - Marion Classe
-  - Nicolas Signolle
-  - Winchygn Liu
-  - Olivia Bawa
-  - Lydia Meziani
-  - "C\xE9line Cl\xE9menson"
-  - Fabien Milliat
-  - Eric Deutsch
-  - Michele Mondini
-  publisher: openRxiv
-  date: '2022-01-19'
-  link: https://doi.org/hcf3qd
-  orcid: 0000-0002-6776-1635
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1136/JITC-2022-SITC2022.0690
   title: "690\u2005Correlates of poor response to neoadjuvant anti-PD-1 therapy in\
     \ hepatocellular carcinoma (HCC) include WNT pathway activation and loss of HLA\
