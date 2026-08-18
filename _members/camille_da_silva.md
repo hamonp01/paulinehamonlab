@@ -5,7 +5,9 @@ role: phd
 group: alum
 links:
   email: camille.da-silva@inserm.fr
-  github: john-doe
+  orcid: 
+  linkedin: https://www.linkedin.com/in/camille-da-silva-sup/
+  
 ---
 
 PhD Student

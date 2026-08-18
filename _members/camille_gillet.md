@@ -2,11 +2,11 @@
 name: Camille Gillet
 image: images/Headshots/Camille_gillet.JPG
 description: Research Staff
-role: Engineer
+role: engineer
 links:
   email: camille.gillet@inserm.fr
   orcid: 0009-0005-9212-4821
-  LinkedIn: https://www.linkedin.com/in/camille-gillet-30735a158/
+  linkedin: https://www.linkedin.com/in/camille-gillet-30735a158/
 ---
 
 Pronouns: she/her
