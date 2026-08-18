@@ -33,6 +33,6 @@ A selection of publications reflecting our research in macrophage biology, cance
 
 {% include publication.html lookup="doi:10.1016/s2468-1253(21)00385-x" %}
 
-{% include publication.html lookup="doi:10.1084/JEM.20180534" %}
+{% include publication.html lookup="doi:10.1084/jem.20180534" %}
 
 </div>
