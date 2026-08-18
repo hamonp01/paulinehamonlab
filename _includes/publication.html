@@ -1,60 +1,52 @@
 {% if include.lookup %}
   {% assign publication = site.data.citations
     | where_exp: "citation",
-      "citation.id == include.lookup or citation.title contains include.lookup"
+      "citation.id == include.lookup"
     | first
   %}
 {% endif %}
 
 {% if publication %}
-  <article class="publication">
-    {% if publication.image %}
-      <a
-        href="{{ publication.link | relative_url | uri_escape }}"
-        class="publication-image"
-        aria-label="{{ publication.title | regex_strip }}"
-      >
-        <img
-          src="{{ publication.image | relative_url | uri_escape }}"
-          alt="{{ publication.title | regex_strip }}"
-          loading="lazy"
-        >
-      </a>
-    {% endif %}
+<article class="publication-card">
 
-    <div class="publication-info">
-      <a
-        href="{{ publication.link | relative_url | xml_escape }}"
-        class="publication-title"
-      >
-        {{ publication.title }}
-      </a>
+  <a
+    href="{{ publication.link | relative_url }}"
+    class="publication-cover"
+    target="_blank"
+  >
+    <img
+      src="{{ publication.image | relative_url }}"
+      alt="{{ publication.title }}"
+      loading="lazy"
+    >
+  </a>
 
-      <div class="publication-authors">
-        {{
-          publication.authors
-          | join: ","
-          | split: ","
-          | array_carve: 8
-          | join: ", "
-        }}
-        {% if publication.authors.size > 8 %}, et al.{% endif %}
-      </div>
+  <div class="publication-content">
 
-      <div class="publication-details">
-        <span>{{ publication.publisher }}</span>
-        ·
-        <span>{{ publication.date | date: "%Y" }}</span>
-      </div>
+    <a
+      href="{{ publication.link | relative_url }}"
+      class="publication-title"
+      target="_blank"
+    >
+      {{ publication.title }}
+    </a>
 
-      {% if publication.link %}
-        <a
-          href="{{ publication.link | relative_url | xml_escape }}"
-          class="publication-link"
-        >
-          View publication →
-        </a>
-      {% endif %}
+    <div class="publication-authors">
+      {{
+        publication.authors
+        | join: ","
+        | split: ","
+        | array_carve: 6
+        | join: ", "
+      }}
+      {% if publication.authors.size > 6 %}, et al.{% endif %}
     </div>
-  </article>
+
+    <div class="publication-journal">
+      <em>{{ publication.publisher }}</em> · {{ publication.date | date: "%Y" }}
+    </div>
+
+  </div>
+
+</article>
 {% endif %}

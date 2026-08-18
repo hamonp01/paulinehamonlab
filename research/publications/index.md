@@ -2,19 +2,27 @@
 title: Publications
 nav:
   order: 4
-  tooltip: Selected publications
+  tooltip: Selected publications from my work in macrophage biology, cancer immunology and translational oncology.
 ---
 
-{% include citation.html lookup="doi:10.1126/science.ady1678" style="rich" %}
+# {% include icon.html icon="fa-solid fa-book-open" %} Publications
 
-{% include citation.html lookup="doi:10.1126/science.adn0327" style="rich" %}
+A selection of publications reflecting my research in macrophage biology, cancer immunology, and translational oncology.
 
-{% include citation.html lookup="doi:10.1038/s41591-023-02345-0" style="rich" %}
+<div class="publication-grid">
 
-{% include citation.html lookup="doi:10.1038/s41590-023-01475-4" style="rich" %}
+{% include publication.html lookup="doi:10.1126/science.ady1678" %}
 
-{% include citation.html lookup="doi:10.1136/jitc-2021-003519" style="rich" %}
+{% include publication.html lookup="doi:10.1126/science.adn0327" %}
 
-{% include citation.html lookup="doi:10.1038/s43018-022-00338-5" style="rich" %}
+{% include publication.html lookup="doi:10.1038/s41591-023-02345-0" %}
 
-{% include citation.html lookup="doi:10.1016/s2468-1253(21)00385-x" style="rich" %}
+{% include publication.html lookup="doi:10.1038/s41590-023-01475-4" %}
+
+{% include publication.html lookup="doi:10.1136/jitc-2021-003519" %}
+
+{% include publication.html lookup="doi:10.1038/s43018-022-00338-5" %}
+
+{% include publication.html lookup="doi:10.1016/s2468-1253(21)00385-x" %}
+
+</div>
