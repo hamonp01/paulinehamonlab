@@ -79,6 +79,196 @@
   plugin: sources.py
   file: sources.yaml
   image: /images/publications/2026-science-dendritic-cells.jpg
+- id: doi:10.1038/S41591-025-04177-6
+  title: Humoral IgG1 responses to tumor antigens underpin clinical outcomes in immune
+    checkpoint blockade
+  authors:
+  - Edgar Gonzalez-Kozlova
+  - Robert Sweeney
+  - Igor Figueiredo
+  - Kevin Tuballes
+  - Sinem Ozbey
+  - Pauline Hamon
+  - Matthew D. Park
+  - Giorgio Ioannou
+  - Yohei Nose
+  - Ruiwei Guo
+  - Paula Restrepo
+  - Mark Buckup
+  - Vladimir Roudko
+  - Clotilde Hennequin
+  - Jessica Le Berichel
+  - Nicholas Venturini
+  - Laszlo Halasz
+  - Leanna Troncoso
+  - Alexandra Tabachnikova
+  - Christie Chang
+  - Amanda Reid
+  - Haley Brown
+  - Theodore Chin
+  - Rafael Cabal
+  - "Rapha\xEBl Mattiuz"
+  - Shingo Eikawa
+  - Diane Marie Del Valle
+  - Tina Ruth Gonsalves
+  - Nelson M. LaMarche
+  - Hajra Jamal
+  - Alona Lansky
+  - Nancy Yi
+  - Daniella Nelson
+  - Jarod Morgenroth-Rebin
+  - Raphael Merand
+  - Bryan Villagomez
+  - "Darwin D\u2019Souza"
+  - Emir Radkevich
+  - Kai Nie
+  - Zhihong Chen
+  - Yasuko Tada
+  - Hiroyoshi Nishikawa
+  - Stephen C. Ward
+  - Maria Isabel Fiel
+  - Rachel Brody
+  - Parissa Tabrizian
+  - Ganesh Gunasekaran
+  - Alice O. Kamphorst
+  - Noah Cohen
+  - Maria Curotto de Lafaille
+  - Olivia Hapanowicz
+  - Natalie Lucas
+  - Kathy Wu
+  - Nicola James
+  - John C. Lin
+  - Gavin Thurston
+  - Myron Schwartz
+  - Nathalie Fiaschi
+  - Seunghee Kim-Schulze
+  - Miriam Merad
+  - Thomas U. Marron
+  - Sacha Gnjatic
+  publisher: Nature Medicine
+  date: '2026-01-27'
+  link: https://doi.org/hbmpn2
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41551-025-01475-9
+  title: Multiparametric cellular and spatial organization in cancer tissue lesions
+    with a streamlined pipeline
+  authors:
+  - Mark Buckup
+  - Igor Figueiredo
+  - Giorgio Ioannou
+  - Sinem Ozbey
+  - Rafael Cabal
+  - Alexandra Tabachnikova
+  - Leanna Troncoso
+  - Jessica Le Berichel
+  - Zhen Zhao
+  - Stephen C. Ward
+  - Clotilde Hennequin
+  - Guray Akturk
+  - Steve Hamel
+  - Maria Isabel Fiel
+  - Rachel Brody
+  - Myron Schwartz
+  - Thomas U. Marron
+  - Seunghee Kim-Schulze
+  - Vladimir Roudko
+  - Edgar Gonzalez-Kozlova
+  - Pauline Hamon
+  - Miriam Merad
+  - Sacha Gnjatic
+  publisher: Nature Biomedical Engineering
+  date: '2025-08-25'
+  link: https://doi.org/g9zchf
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1051/MEDSCI/2026044
+  title: Quand la tumeur dialogue avec la moelle osseuse
+  authors:
+  - Pauline Hamon
+  publisher: "m\xE9decine/sciences"
+  date: '2026-04-01'
+  link: https://doi.org/hcf34d
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.09.09.675071
+  title: TREM2 macrophages are associated with enhanced response to PD-1 blockade
+    in human hepatocellular carcinoma
+  authors:
+  - Pauline Hamon
+  - Matthew D. Park
+  - Jessica Le Berichel
+  - Merav Cohen
+  - Brian Y. Soong
+  - Mark Buckup
+  - Clotilde Hennequin
+  - Katherine E. Lindblad
+  - "Rapha\xEBl Mattiuz"
+  - Igor Figueiredo
+  - Alexandra Tabachnikova
+  - Travis Dawson
+  - "Darwin D\u2019souza"
+  - Leanna Troncoso
+  - Giorgio Ioannou
+  - Colles Price
+  - Nicolas Fernandez
+  - Amir Giladi
+  - Oren Barboy
+  - Zhen Zhao
+  - Sinem Ozbey
+  - Sarah Cappuyns
+  - Amanda Reid
+  - Steven Hamel
+  - Joel Kim
+  - Romain Donne
+  - Christie Chang
+  - Robert Marvin
+  - Hiyab Stefanos
+  - Grace Chung
+  - "Rapha\xEBl Merand"
+  - Laszlo Halasz
+  - Samarth Hegde
+  - Lou M. Guerin
+  - Min Ni
+  - Yi Wei
+  - Gurinder Atwal
+  - Alona Lansky
+  - Hajra Jamal
+  - Nancy Yi
+  - Theodore Chin
+  - Nicola James
+  - Nausicaa Malissen
+  - Fiona Desland
+  - Yonit Lavin
+  - Stephen C. Ward
+  - Maria Isabel Fiel
+  - Rachel Brody
+  - Jeroen Dekervel
+  - Diether Lambrechts
+  - Ephraim Kenigsberg
+  - Edgar Gonzalez-Kozlova
+  - Vladimir Roudko
+  - Alice O. Kamphorst
+  - Jiang He
+  - Marco Colonna
+  - Seunghee Kim-Schulze
+  - Sacha Gnjatic
+  - John C. Lin
+  - Gavin Thurston
+  - Amaia Lujambio
+  - Myron Schwartz
+  - Ido Amit
+  - Thomas U. Marron
+  - Miriam Merad
+  publisher: openRxiv
+  date: '2025-09-12'
+  link: https://doi.org/hcf34f
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1084/jem.20241207
   title: Early transcriptional effects of inflammatory cytokines reveal highly redundant
     cytokine networks
@@ -227,6 +417,200 @@
   publisher: Nature Medicine
   date: '2025-01-06'
   link: https://doi.org/g8xx7h
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1538-7445.AM2025-CT106
+  title: 'Abstract CT106: A phase 1b/2 trial of dupilumab given in conjunction with
+    PD-1 or PD-L1 blockade and anakinra in the treatment of relapsed/refractory metastatic
+    NSCLC'
+  authors:
+  - Jacob A. Lowy
+  - Matthew D. Park
+  - Nicholas C. Rohs
+  - Pamela Vaiskauskas
+  - Fionnuala Crowley
+  - Nicholas Venturini
+  - Stephanie Chang
+  - Nelson LaMarche
+  - Clotilde Hennequin
+  - Jessica Le Berichel
+  - Pauline Hamon
+  - Meriem Belabed
+  - Nader Yatim
+  - Jesse Boumelha
+  - Alexis Saffon
+  - Frederika Rentzeperis
+  - Brian Y. Soong
+  - Leanna Troncoso
+  - Laszlo Halasz
+  - Christina Noel
+  - Theodore Chin
+  - Earnest P. Chen
+  - Amanda Reid
+  - Maria Casanova-Acebes
+  - Matthew Su
+  - Ashley Reid
+  - Shira Wood-Isenberg
+  - "Darwin D\u2019souza"
+  - Travis Dawson
+  - Kai Nie
+  - Zhihong Chen
+  - Jorge E. Gomez
+  - Seunghee Kim-Schulze
+  - Filip K. Swirski
+  - Nicolas Vabret
+  - Udit Chaddha
+  - Dan Feng
+  - Mary B. Beasley
+  - David F. Yankelevitz
+  - Deborah B. Doroshow
+  - Rajwanth Veluswamy
+  - Robert Samstein
+  - Brian D. Brown
+  - Fred R. Hirsch
+  - Sacha Gnjatic
+  - Miriam Merad
+  - Thomas U. Marron
+  publisher: Cancer Research
+  date: '2025-04-25'
+  link: https://doi.org/hcf34g
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41587-025-02928-X
+  title: Antimicrobial peptide delivery to lung as peptibody mRNA in anti-inflammatory
+    lipids treats multidrug-resistant bacterial pneumonia
+  authors:
+  - Yonger Xue
+  - Xucheng Hou
+  - Siyu Wang
+  - Yuebao Zhang
+  - Yichen Zhong
+  - Diana D. Kang
+  - Chang Wang
+  - Haoyuan Li
+  - Changyue Yu
+  - Zhengwei Liu
+  - Meng Tian
+  - Dinglingge Cao
+  - Ya Ying Zheng
+  - Binbin Deng
+  - Pauline Hamon
+  - Miriam Merad
+  - Yizhou Dong
+  publisher: Nature Biotechnology
+  date: '2025-11-26'
+  link: https://doi.org/hbhd2k
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41467-025-57149-2
+  title: LNP-RNA-mediated antigen presentation leverages SARS-CoV-2-specific immunity
+    for cancer treatment
+  authors:
+  - Yonger Xue
+  - Xucheng Hou
+  - Yichen Zhong
+  - Yuebao Zhang
+  - Shi Du
+  - Diana D. Kang
+  - Leiming Wang
+  - Chang Wang
+  - Haoyuan Li
+  - Siyu Wang
+  - Zhengwei Liu
+  - Meng Tian
+  - Kaiyuan Guo
+  - Dinglingge Cao
+  - Binbin Deng
+  - David W. McComb
+  - Eric Purisic
+  - Jinye Dai
+  - Pauline Hamon
+  - Brian D. Brown
+  - Nadejda M. Tsankova
+  - Miriam Merad
+  - Darrell J. Irvine
+  - Ron Weiss
+  - Yizhou Dong
+  publisher: Nature Communications
+  date: '2025-03-04'
+  link: https://doi.org/hcf34h
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41586-025-09493-Y
+  title: "Myeloid\_progenitor dysregulation fuels immunosuppressive macrophages in\
+    \ tumours"
+  authors:
+  - Samarth Hegde
+  - Bruno Giotti
+  - Brian Y. Soong
+  - Laszlo Halasz
+  - Jessica Le Berichel
+  - Maximilian M. Schaefer
+  - Benoit Kloeckner
+  - "Rapha\xEBl Mattiuz"
+  - Matthew D. Park
+  - Assaf Magen
+  - Adam Marks
+  - Meriem Belabed
+  - Pauline Hamon
+  - Theodore Chin
+  - Leanna Troncoso
+  - Juliana J. Lee
+  - Kaili Fan
+  - Dughan Ahimovic
+  - Michael J. Bale
+  - Kai Nie
+  - Grace Chung
+  - "Darwin D\u2019souza"
+  - Krista Angeliadis
+  - Seunghee Kim-Schulze
+  - Raja M. Flores
+  - Andrew J. Kaufman
+  - Florent Ginhoux
+  - Jason D. Buenrostro
+  - Steven Z. Josefowicz
+  - Alexander M. Tsankov
+  - Thomas U. Marron
+  - Sai Ma
+  - Brian D. Brown
+  - Miriam Merad
+  publisher: Nature
+  date: '2025-09-10'
+  link: https://doi.org/hbs7px
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1200/JCO.2025.43.16_SUPPL.E16320
+  title: 'Neoadjuvant immunotherapy of hepatocellular carcinoma: A single-institution
+    experience at Mount Sinai.'
+  authors:
+  - Dan Feng
+  - Fionnuala Crowley
+  - Olivia Hapanowicz
+  - Nicholas James Venturini
+  - Natalie Lucas
+  - Kathy Wu
+  - Jessica Wilk
+  - Norah Layla Sadek
+  - Pauline Hamon
+  - Clotilde Hennequin
+  - Varun Devraj
+  - Pradeep Thanigaimani
+  - Thomas S. Uldrick
+  - Elizabeth Miller
+  - Israel Lowy
+  - Deborah Blythe Doroshow
+  - Parissa Tabrizian
+  - Myron E. Schwartz
+  - Miriam Merad
+  - Thomas Urban Marron
+  publisher: Journal of Clinical Oncology
+  date: '2025-06-01'
+  link: https://doi.org/hcf34j
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
@@ -415,6 +799,41 @@
   publisher: openRxiv
   date: '2024-06-28'
   link: https://doi.org/hbs7pz
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001390207200080
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001390207200080
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/JIMMUNOL.212.SUPP.0802.7340
+  title: Spatial Molecular Profiling of the Kidney of Children with Lupus Nephritis
+  authors:
+  - Juan Rodriguez-Alcazar
+  - Uthra Balaji
+  - Leanna Troncoso
+  - Amanda Reid
+  - Pauline Hamon
+  - Sean Houghton
+  - Lynnette Walters
+  - Cynthia Smitherman
+  - Jeanine Baisch
+  - Marina Santos
+  - Owen Larosiliere
+  - Lauren Robinson
+  - Tracey Wright
+  - Miriam Merad
+  - Simone Caielli
+  - Jinghua Gu
+  - Virginia Pascual
+  publisher: The Journal of Immunology
+  date: '2024-05-01'
+  link: https://doi.org/hcf34k
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
@@ -649,6 +1068,67 @@
   plugin: sources.py
   file: sources.yaml
   image: /images/publications/2023-nature-immunology-trem2.jpg
+- id: doi:10.1158/1538-7445.AM2023-2178
+  title: 'Abstract 2178: Circulating tumor DNA (ctDNA) correlates closely with tumor
+    necrosis and relapse-free survival (RFS) in hepatocellular carcinoma (HCC) patients
+    treated with perioperative cemiplimab'
+  authors:
+  - Thomas U. Marron
+  - Laura Brennan
+  - Pauline Hamon
+  - Maria Isabel Fiel
+  - Stephen C. Ward
+  - Yuan O. Zhu
+  - Edward Kim
+  - Alice O. Kamphorst
+  - Pradeep Thanigaimani
+  - Thomas S. Uldrick
+  - Natalie Lucas
+  - Kathy Wu
+  - Olivia Hapanowicz
+  - Paula King
+  - Siyu Li
+  - Elizabeth Miller
+  - Nina Bhardwaj
+  - Gavin Thurston
+  - Israel Lowy
+  - Sacha Gnjatic
+  - Myron E. Schwartz
+  - Vladimir Jankovic
+  - Miriam Merad
+  publisher: Cancer Research
+  date: '2023-04-04'
+  link: https://doi.org/hcf34m
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001094865404432
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001094865404432
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1146/ANNUREV-CANCERBIO-061521-085949
+  title: On the Biology and Therapeutic Modulation of Macrophages and Dendritic Cells
+    in Cancer
+  authors:
+  - Matthew D. Park
+  - Meriem Belabed
+  - Steven T. Chen
+  - Pauline Hamon
+  - Samarth Hegde
+  - "Rapha\xEBl Mattiuz"
+  - Thomas U. Marron
+  - Miriam Merad
+  publisher: Annual Review of Cancer Biology
+  date: '2023-04-11'
+  link: https://doi.org/hbs7p6
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2022.06.22.497216
   title: Intratumoral mregDC and CXCL13 T helper niches enable local differentiation
     of CD8 T cells following PD-1 blockade
@@ -844,6 +1324,129 @@
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1136/JITC-2022-SITC2022.0690
+  title: "690\u2005Correlates of poor response to neoadjuvant anti-PD-1 therapy in\
+    \ hepatocellular carcinoma (HCC) include WNT pathway activation and loss of HLA\
+    \ expression"
+  authors:
+  - Kunal Kundu
+  - Nathalie Fiaschi
+  - Wei Wang
+  - Baijun Kou
+  - Assaf Magen
+  - Pauline Hamon
+  - Sacha Gnjatic
+  - Myron Schwartz
+  - Alice Kamphorst
+  - Thomas Marron
+  - Miriam Merad
+  - Chunguang Guo
+  - Gavin Thurston
+  - Namita Gupta
+  - Kamil Cygan
+  publisher: Regular and Young Investigator Award Abstracts
+  date: '2022-11-01'
+  link: https://doi.org/hcf34n
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000892509507397
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000892509507397
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/JITC-2022-SITC2022.0541
+  title: "541\u2005mregDC/T helper niches enable local reactivation of CD8 T cells\
+    \ upon PD-1 blockade"
+  authors:
+  - Assaf Magen
+  - Pauline Hamon
+  - Nathalie Fiaschi
+  - Raquel Deering
+  - Sacha Gnjatic
+  - Myron Schwartz
+  - Thomas Marron
+  - Gavin Thurston
+  - Alice Kamphorst
+  - Miriam Merad
+  publisher: Regular and Young Investigator Award Abstracts
+  date: '2022-11-01'
+  link: https://doi.org/hcf34p
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/JITC-2022-SITC2022.0629
+  title: "629\u2005Neoadjuvant nivolumab combined with CCR2/5 inhibitor or anti-IL-8\
+    \ antibody in non-small cell lung cancer and hepatocellular carcinoma"
+  authors:
+  - Nicholas Venturini
+  - Thomas Marron
+  - Maria Casanova-Acebes
+  - John Mandeli
+  - Deborah Doroshow
+  - Natalie Lucas
+  - Kathy Wu
+  - Olivia Hapanowicz
+  - Paula King
+  - Pauline Hamon
+  - Jessica Le Berichel
+  - Diane Del Valle
+  - Clotilde Hennequin
+  - Seunghee Kim-Schulze
+  - Sacha Gnjatic
+  - Miriam Merad
+  - Zhen Zhao
+  - Stephen Ward
+  - Maria Isabel Fiel
+  - Mary Beasley
+  - Edward Kim
+  - Kirema Garcia-Reyes
+  - Udit Chaddha
+  - Timothy Harkin
+  - David Yankelevitz
+  - Ganesh Gunasekaran
+  - Parissa Tabrizian
+  - Myron Schwartz
+  - Andrew Kaufman
+  - Daniel Nicastri
+  - Andrew Wolf
+  - Raja Flores
+  publisher: Regular and Young Investigator Award Abstracts
+  date: '2022-11-01'
+  link: https://doi.org/gsh62h
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/JITC-2022-SITC2022.0688
+  title: "688\u2005Prediction of HCC response to neoadjuvant immunotherapy using multiparametric\
+    \ magnetic resonance imaging: a preliminary study"
+  authors:
+  - Octavia Bane
+  - Enamul Bhuiyan
+  - Paul Kennedy
+  - Muhammed Shareef
+  - Pauline Hamon
+  - Mark Buckup
+  - Sacha Gnjatic
+  - Stefanie Hectors
+  - Hung Kam Cheung
+  - Elizabeth Miller
+  - Maria Isabel Fiel
+  - Stephen Ward
+  - Myron Schwartz
+  - Thomas Marron
+  - Miriam Merad
+  - Bachir Taouli
+  publisher: Regular and Young Investigator Award Abstracts
+  date: '2022-11-01'
+  link: https://doi.org/hcf34q
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41586-021-03651-8
   title: Tissue-resident macrophages provide a pro-tumorigenic niche to early NSCLC
     cells
@@ -878,6 +1481,81 @@
   publisher: Nature
   date: '2021-06-16'
   link: https://doi.org/gkq7fq
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/JITC-2021-SITC2021.685
+  title: "685\u2005Characterization of molecular and spatial diversity of macrophages\
+    \ in hepatocellular carcinoma"
+  authors:
+  - Pauline Hamon
+  - Assaf Magen
+  - Joel Kim
+  - Mark Buckup
+  - Leanna Troncoso
+  - Steven Hamel
+  - Jessica Le Berichel
+  - Oren Barboy
+  - Eyal David
+  - Alexandra Tabachnikova
+  - Christie Chang
+  - Zhen Zhao
+  - Merav Cohen
+  - Amir Giladi
+  - Nausicaa Malissen
+  - Fiona Desland
+  - Ido Amit
+  - Ephraim Kenigsberg
+  - Myron Schwartz
+  - Thomas Marron
+  - Miriam Merad
+  publisher: Regular and Young Investigator Award Abstracts
+  date: '2021-11-01'
+  link: https://doi.org/g7mz84
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000680263502080
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000680263502080
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/JITC-2021-SITC2021.361
+  title: "361\u2005Heterogeneity of PD-1hi T cells associates with response to PD-1\
+    \ blockade in hepatocellular carcinoma"
+  authors:
+  - Assaf Magen
+  - Assaf Magen
+  - Pauline Hamon
+  - Myron Schwartz
+  - Thomas Marron
+  - Alice Kamphorst
+  - Miriam Merad
+  publisher: Regular and Young Investigator Award Abstracts
+  date: '2021-11-01'
+  link: https://doi.org/hcf34r
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000680263504441
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000680263504441
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000680263501338
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000680263501338
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
@@ -1053,7 +1731,7 @@
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1084/jem.20180534
+- id: doi:10.1084/JEM.20180534
   title: Macrophages of distinct origins contribute to tumor development in the lung
   authors:
   - Pierre-Louis Loyher
@@ -1076,7 +1754,7 @@
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41467-017-02458-4
+- id: doi:10.1038/S41467-017-02458-4
   title: Profiling the lymphoid-resident T cell pool reveals modulation by age and
     microbiota
   authors:
@@ -1099,7 +1777,23 @@
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.4049/jimmunol.1700430
+- id: doi:10.1182/BLOOD-2016-08-732164
+  title: CX3CR1-dependent endothelial margination modulates Ly6Chigh monocyte systemic
+    deployment upon inflammation in mice
+  authors:
+  - Pauline Hamon
+  - Pierre-Louis Loyher
+  - Camille Baudesson de Chanville
+  - Fabrice Licata
+  - "Christophe Combadi\xE8re"
+  - Alexandre Boissonnas
+  publisher: Blood
+  date: '2017-03-09'
+  link: https://doi.org/f9sx4k
+  orcid: 0000-0002-6776-1635
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/JIMMUNOL.1700430
   title: "Macrophages Induce Long-Term Trapping of \u03B3\u03B4 T Cells with Innate-like\
     \ Properties within Secondary Lymphoid Organs in the Steady State"
   authors:
@@ -1122,23 +1816,7 @@
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1182/blood-2016-08-732164
-  title: CX3CR1-dependent endothelial margination modulates Ly6Chigh monocyte systemic
-    deployment upon inflammation in mice
-  authors:
-  - Pauline Hamon
-  - Pierre-Louis Loyher
-  - Camille Baudesson de Chanville
-  - Fabrice Licata
-  - "Christophe Combadi\xE8re"
-  - Alexandre Boissonnas
-  publisher: Blood
-  date: '2017-03-09'
-  link: https://doi.org/f9sx4k
-  orcid: 0000-0002-6776-1635
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/0008-5472.can-16-0984
+- id: doi:10.1158/0008-5472.CAN-16-0984
   title: CCR2 Influences T Regulatory Cell Migration to Tumors and Serves as a Biomarker
     of Cyclophosphamide Sensitivity
   authors:
@@ -1159,7 +1837,7 @@
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.07847
+- id: doi:10.7554/ELIFE.07847
   title: Immune surveillance of the lung by migrating tissue monocytes
   authors:
   - Mathieu P Rodero
@@ -1190,7 +1868,7 @@
   orcid: 0000-0002-6776-1635
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pone.0108212
+- id: doi:10.1371/JOURNAL.PONE.0108212
   title: In Vivo Imaging Reveals a Pioneer Wave of Monocyte Recruitment into Mouse
     Skin Wounds
   authors:
