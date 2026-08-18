@@ -6,7 +6,7 @@ role: engineer
 links:
   email: camille.gillet@inserm.fr
   orcid: 0009-0005-9212-4821
-  linkedin: https://www.linkedin.com/in/camille-gillet-30735a158/
+  linkedin: camille-gillet-30735a158
 ---
 
 Pronouns: she/her

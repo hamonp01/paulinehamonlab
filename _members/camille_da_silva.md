@@ -6,7 +6,7 @@ group: alum
 links:
   email: camille.da-silva@inserm.fr
   orcid: 
-  linkedin: https://www.linkedin.com/in/camille-da-silva-sup/
+  linkedin: camille-da-silva-sup
   
 ---
 

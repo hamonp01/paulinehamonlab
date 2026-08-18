@@ -9,7 +9,7 @@ aliases:
 links:
   home-page: https://paulinehamonlab.org
   orcid: 0000-0002-6776-1635
-  linkedin: https://www.linkedin.com/in/pauline-hamon-389746a9/
+  linkedin: pauline-hamon-389746a9
   google-scholar: https://scholar.google.com/citations?user=-97Fo6wAAAAJ&hl=en
 ---
 
