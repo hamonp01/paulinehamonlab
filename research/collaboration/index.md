@@ -5,7 +5,7 @@ nav:
   tooltip: Collaborate with us
 ---
 
-# Collaborative research
+# {% include icon.html icon="fa-solid fa-globe" %} Collaborative research
 
 We welcome collaborations with researchers interested in macrophage biology, cancer immunology, spatial biology, and translational research.
 

@@ -2,7 +2,7 @@
 title: Publications
 nav:
   order: 4
-  tooltip: Selected publications from our work in macrophage biology, cancer immunology and translational oncology.
+  tooltip: Selected publications from our work in macrophage biology, cancer immunology and translational oncology
 ---
 
 # {% include icon.html icon="fa-solid fa-book-open" %} Publications
