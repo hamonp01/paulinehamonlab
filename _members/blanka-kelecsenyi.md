@@ -1,7 +1,7 @@
 ---
 name: Blanka Kelecsenyi
 image: images/Headshots/.jpg
-role: undergrad
+role: master
 group: alum
 links:
   email: 
