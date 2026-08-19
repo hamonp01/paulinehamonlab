@@ -5,29 +5,32 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Macrophages & Cancer**  
+Centre de Recherche des Cordeliers   
+15 rue de l'école de médecine
+75006 Paris, France
+
+For general inquiries, collaborations, or scientific discussions:
+
+**[pauline.hamon@inserm.fr](mailto:pauline.hamon@inserm.fr)**
+
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="pauline.hamon@inserm.fr"
+  link="pauline.hamon@inserm.fr"  
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
+{% include button.html type="website" text="Centre de Recherche des Cordeliers" link="https://crcordeliers.fr/en/home/" %}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/7BtAmZTnPbehrt7W6"
 %}
 
 {% include section.html %}
