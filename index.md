@@ -18,7 +18,7 @@ The Hamon lab was established in 2025 to combine fundamental immunology with tra
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -29,7 +29,7 @@ The Hamon lab was established in 2025 to combine fundamental immunology with tra
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/cordeliers/cordeliers-4.jpg"
   link="research"
   title="Our Lab"
   text=text
@@ -45,7 +45,7 @@ Our research combines human studies and experimental approaches to understand ho
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="See our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -56,8 +56,8 @@ Our research combines human studies and experimental approaches to understand ho
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
+  image="images/Research/Pipetting_1b.JPG"
+  link="research"
   title="Our Research"
   flip=true
   style="bare"
