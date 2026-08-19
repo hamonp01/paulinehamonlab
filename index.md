@@ -18,7 +18,7 @@ The Hamon lab was established in 2025 to combine fundamental immunology with tra
 
 {%
   include button.html
-  link="publications"
+  link="research/publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
