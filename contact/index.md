@@ -5,15 +5,14 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# Contact
+# {% include icon.html icon="fa-solid fa-users" %} Contact
 
 ## Find Us
 
 **Centre de Recherche des Cordeliers**
-
-Sorbonne Université - Université Paris Cité  
-15 rue de l'École de Médecine
-75006 Paris, France
+ Sorbonne Université - Université Paris Cité  
+ 15 rue de l'École de Médecine
+ 75006 Paris, France
 
 {%
   include button.html
