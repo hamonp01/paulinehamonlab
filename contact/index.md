@@ -7,14 +7,13 @@ nav:
 
 # Contact
 
-## Macrophages & Cancer
+## Find Us
 
 **Centre de Recherche des Cordeliers**
+
 Sorbonne Université - Université Paris Cité  
 15 rue de l'École de Médecine
 75006 Paris, France
-
-For general inquiries, collaborations, or scientific discussions:
 
 {%
   include button.html
@@ -43,7 +42,7 @@ The team is located at the Centre de Recherche des Cordeliers, in the heart of t
 {% capture col1 %}
 
 {% include figure.html
-  image="images/cordeliers/cordeliers-2.jpeg"
+  image="images/cordeliers/cordeliers-3.jpeg"
   caption="Centre de Recherche des Cordeliers"
 %}
 
@@ -52,8 +51,8 @@ The team is located at the Centre de Recherche des Cordeliers, in the heart of t
 {% capture col2 %}
 
 {% include figure.html
-  image="images/cordeliers/cordeliers-3.jpeg"
-  caption="Centre de Recherche des Cordeliers, Paris"
+  image="images/cordeliers/cordeliers-2.jpeg"
+  caption="Centre de Recherche des Cordeliers"
 %}
 
 {% endcapture %}
@@ -62,7 +61,7 @@ The team is located at the Centre de Recherche des Cordeliers, in the heart of t
 
 {% include figure.html
   image="images/cordeliers/cordeliers-4.jpg"
-  caption="Centre de Recherche des Cordeliers, Paris"
+  caption="Centre de Recherche des Cordeliers"
 %}
 
 {% endcapture %}
