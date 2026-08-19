@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %} Contact
 
-## Find Us
+## {% include icon.html icon="fa-solid fa-magnifying-glass" %} Find Us
 
 **Centre de Recherche des Cordeliers**
 
@@ -26,7 +26,7 @@ Sorbonne Université - Université Paris Cité
 
 {% include button.html type="website" text="Centre de Recherche des Cordeliers" link="https://crcordeliers.fr/en/home/" %}
 
-## Getting here
+## {% include icon.html icon="fa-solid fa-map-location-dot" %}  Getting here
 
 The team is located at the Centre de Recherche des Cordeliers, in the heart of the Latin Quarter in Paris.
 
