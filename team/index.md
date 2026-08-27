@@ -18,6 +18,7 @@ We believe that scientific excellence thrives through diversity of perspectives,
 
 {% capture content %}
 
+{% include figure.html image="images/Team/Lab_picture_3.jpeg" %}
 {% include figure.html image="images/Team/Lab_picture_1.jpeg" %}
 {% include figure.html image="images/Team/Camilles_pose.JPG" %}
 {% include figure.html image="images/photo.jpg" %}
