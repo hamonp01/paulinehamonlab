@@ -1,8 +1,8 @@
 ---
-title: New publication in Science: cDC1 orchestrate tertiary lymphoid structures in cancer
+title: "New publication in Science: cDC1 orchestrate tertiary lymphoid structures in cancer"
 author: pauline-hamon
 image: images/publications/2026-science-dendritic-cells.jpg
-summary: Our new study identifies mature cDC1 as key organizers of tertiary lymphoid structures in cancer and highlights their potential to enhance anti-tumor immunity.
+summary: Our new study identifies mature cDC1 as key organizers of tertiary lymphoid structures in cancer and highlights their role in sustaining anti-tumor immunity.
 tags:
   - publication
   - research
