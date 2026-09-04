@@ -1,14 +1,13 @@
 ---
-title: Blog
+title: News
 nav:
-  order: 6
-  tooltip: Musings and miscellany
+  order: 5
+  tooltip: News and updates
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-newspaper" %} News
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Latest news from the Macrophages & Cancer team: publications, awards, conferences, events, and life in the lab.
 
 {% include section.html %}
 
