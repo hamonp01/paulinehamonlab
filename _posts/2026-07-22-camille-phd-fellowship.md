@@ -2,14 +2,11 @@
 title: A new milestone for the lab!
 author: pauline-hamon
 image: images/Headshots/Headshot_Da_Silva.jpg
+summary: Camille Da Silva has been awarded a PhD fellowship and will continue her research on macrophages in liver cancer as the lab's first PhD student.
 tags:
   - team
   - award
 ---
-
-<!-- excerpt start -->
-Camille Da Silva has been awarded a PhD fellowship and will continue her research on macrophages in liver cancer as the lab's first PhD student.
-<!-- excerpt end -->
 
 {% assign camille = site.members | where: "name", "Camille Da Silva" | first %}
 

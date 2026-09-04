@@ -51,12 +51,10 @@
       {{ title }}
     </a>
 
-    {% assign excerpt = post.content
-      | default: ""
-      | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
-      | default: post.excerpt
-      | default: ""
-      | strip_html
+    {% assign excerpt = post.summary
+     | default: post.excerpt
+     | default: ""
+     | strip_html
     %}
 
     {% assign search = post.content
