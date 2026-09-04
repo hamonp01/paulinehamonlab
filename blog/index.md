@@ -20,7 +20,6 @@ Latest news from the Macrophages & Cancer team: publications, awards, conference
 <div class="news-grid">
   {% for post in site.posts %}
     {% include post-excerpt.html
-      title=post.title
       lookup=post.slug
     %}
   {% endfor %}
