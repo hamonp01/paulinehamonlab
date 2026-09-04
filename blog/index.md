@@ -17,4 +17,11 @@ Latest news from the Macrophages & Cancer team: publications, awards, conference
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+<div class="news-grid">
+  {% for post in site.posts %}
+    {% include post-excerpt.html
+      title=post.title
+      lookup=post.slug
+    %}
+  {% endfor %}
+</div>

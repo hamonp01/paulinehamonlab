@@ -1,5 +1,5 @@
 {% if include.lookup %}
-  {% assign post = site.posts 
+  {% assign post = site.posts
     | where_exp: "post", "post.slug == include.lookup"
     | first
     | default: include
@@ -8,53 +8,71 @@
   {% assign post = include %}
 {% endif %}
 
-<div class="post-excerpt-container">
-  <div class="post-excerpt">
-    {% assign url = post.url | relative_url | uri_escape %}
-    {% assign title = post.title %}
-    {% assign image = post.image | relative_url | uri_escape %}
+{% assign url = post.url | relative_url | uri_escape %}
+{% assign title = post.title %}
+{% assign image = post.image | relative_url | uri_escape %}
 
-    {% if image %}
-      <a
-        href="{{ url }}"
-        class="post-excerpt-image"
-        aria-label="{{ title | default: "excerpt link" | regex_strip }}"
+<div class="news-card">
+
+  {% if image %}
+    <a
+      href="{{ url }}"
+      class="news-card-image"
+      aria-label="{{ title | default: 'News article' | regex_strip }}"
+    >
+      <img
+        src="{{ image }}"
+        alt="{{ title | default: 'News image' | regex_strip }}"
+        loading="lazy"
+        {% include fallback.html %}
       >
-        <img
-          src="{{ image }}"
-          alt="{{ title | default: "excerpt image" | regex_strip }}"
-          loading="lazy"
-          {% include fallback.html %}
-        >
-      </a>
-    {% endif %}
+    </a>
+  {% endif %}
 
-    <div class="post-excerpt-text">
-      <a href="{{ url }}">{{ title }}</a>
+  <div class="news-card-content">
 
-      {%
-        include post-info.html
-        author=post.author
-        published=post.date
-        updated=post.last_modified_at
-        tags=post.tags
-      %}
+    <div class="news-card-meta">
 
-      {% assign excerpt = post.content
-        | default: ""
-        | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
-        | default: post.excerpt
-        | default: ""
-        | strip_html
-      %}
-      {% assign search = post.content
-        | strip_html
-        | strip_newlines
-        | regex_strip
-      %}
-      <p data-search="{{ search }}">
-        {{ excerpt }}
-      </p>
+      {% if post.tags %}
+        <div class="news-card-tags">
+          {% for tag in post.tags %}
+            <span>{{ tag }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      <time datetime="{{ post.date | date_to_xmlschema }}">
+        {{ post.date | date: "%B %-d, %Y" }}
+      </time>
+
     </div>
+
+    <a href="{{ url }}" class="news-card-title">
+      {{ title }}
+    </a>
+
+    {% assign excerpt = post.content
+      | default: ""
+      | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
+      | default: post.excerpt
+      | default: ""
+      | strip_html
+    %}
+
+    {% assign search = post.content
+      | strip_html
+      | strip_newlines
+      | regex_strip
+    %}
+
+    <p class="news-card-excerpt" data-search="{{ search }}">
+      {{ excerpt | truncate: 220 }}
+    </p>
+
+    <a href="{{ url }}" class="news-card-read-more">
+      Read more →
+    </a>
+
   </div>
+
 </div>

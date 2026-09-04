@@ -7,6 +7,10 @@ tags:
   - award
 ---
 
+<!-- excerpt start -->
+Camille Da Silva has been awarded a PhD fellowship and will continue her research on macrophages in liver cancer as the lab's first PhD student.
+<!-- excerpt end -->
+
 Congratulations to **[Camille Da Silva]({{ '/members/camille_da_silva.html' | relative_url }})** on being awarded a PhD fellowship!
 
 After joining the Macrophages & Cancer team as a Master's student, Camille will continue her research with us as our **first PhD student**.
