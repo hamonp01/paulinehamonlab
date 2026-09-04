@@ -84,23 +84,18 @@ Our research is supported by competitive funding programs and organizations comm
 </div>
 
 <div class="funding-card">
-  <img src="{{ '/images/funding/anr.jpg' | relative_url }}" alt="ANR">
-  <p><strong>ANR JCJC</strong></p>
-</div>
-
-<div class="funding-card">
   <img src="{{ '/images/funding/su.png' | relative_url }}" alt="Sorbonne Université">
   <p><strong>Chaire de Professeur Junior</strong></p>
 </div>
 
 <div class="funding-card">
   <img src="{{ '/images/funding/ligue.png' | relative_url }}" alt="Ligue contre le cancer">
-  <p><strong>Ligue contre le cancer – Île-de-France</strong></p>
+  <p><strong>Ligue contre le cancer Ile-de-France</strong></p>
 </div>
 
 <div class="funding-card">
   <img src="{{ '/images/funding/canceropole.jpeg' | relative_url }}" alt="Canceropôle Île-de-France">
-  <p><strong>Canceropôle Île-de-France</strong></p>
+  <p><strong>Canceropôle Ile-de-France</strong></p>
 </div>
 
 <div class="funding-card">
