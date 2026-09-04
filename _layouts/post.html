@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% include section.html background=page.image %}
-
 <h1 class="center">{{ page.title }}</h1>
 
 {%
@@ -15,9 +13,20 @@ layout: default
   tags=page.tags
 %}
 
+{% if page.image %}
+  <div class="news-post-image">
+    <img
+      src="{{ page.image | relative_url }}"
+      alt="{{ page.title | escape }}"
+    >
+  </div>
+{% endif %}
+
 {% include section.html %}
 
-{{ content }}
+<div class="news-post-content">
+  {{ content }}
+</div>
 
 {% include section.html %}
 

@@ -7,7 +7,7 @@ tags:
   - award
 ---
 
-Congratulations to **Camille Da Silva** on being awarded a PhD fellowship!
+Congratulations to **[Camille Da Silva]({{ '/members/camille_da_silva.html' | relative_url }})** on being awarded a PhD fellowship!
 
 After joining the Macrophages & Cancer team as a Master's student, Camille will continue her research with us as our **first PhD student**.
 
