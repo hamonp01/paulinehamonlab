@@ -3,8 +3,8 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
+  --primary: #A02EDB;      // violet du logo
+  --secondary: #30BAD7;    // cyan du logo
   --text: #000000;
   --background: #ffffff;
   --background-alt: #fafafa;
@@ -13,9 +13,10 @@
   --dark-gray: #404040;
   --overlay: #00000020;
 }
+
 [data-dark="true"] {
-  --primary: #0795d9;
-  --secondary: #075985;
+  --primary: #B85BE6;      // violet un peu éclairci pour le dark mode
+  --secondary: #30BAD7;    // cyan conservé
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
